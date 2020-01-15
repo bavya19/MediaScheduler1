@@ -1,0 +1,2 @@
+# MediaScheduler1
+hello Sir, Attached my given task, C# and json is new language for me, so it took time to learn and that's there was a huge delay.. In this task i have taken from and to time from and user and scheduled/sequence the media list by priorty which can be played for the given interval... Still i am learning deserialization syntax and creating the expected program with request and response object without wasting time i have uploaded the partially completed with only serialization but nor deserialization.
